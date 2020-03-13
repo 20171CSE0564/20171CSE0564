@@ -1,0 +1,17 @@
+<html>
+<head>
+<style>
+div{
+background-color:red;
+padding:25px;
+text-align:middle;
+color:green;
+}
+div:hover{background-color:cyan;}
+</style>
+</head>
+<body>
+<p><b>Note:</b><br />Hello Good Morning</p>
+<div><b>Welcome To Presidency University</b></div>
+</body>
+</html>
